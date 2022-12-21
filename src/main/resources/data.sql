@@ -1,0 +1,3 @@
+--Ran only once because data is persisted on disc
+--insert into item (item_id,name,category,price,rating,quantity)
+--values (8,"item from data.sql","its category",5,5,3);
